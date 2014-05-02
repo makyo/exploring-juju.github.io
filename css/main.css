@@ -184,6 +184,10 @@ ul, ol {
   font-style: italic;
 }
 
+.post img {
+    max-width: 42em;
+}
+
 .nav {
     border-top: 4px solid #eee;
     margin-top: 1em;
