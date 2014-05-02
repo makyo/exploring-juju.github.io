@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Table of Contents
+next: "part0"
 
 ---
 

@@ -184,3 +184,14 @@ ul, ol {
   font-style: italic;
 }
 
+.nav {
+    border-top: 4px solid #eee;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+.nav div {
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+}

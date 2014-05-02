@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 title: Part 1 - Working With Juju
+previous: "../part0"
+next: "1-environment"
 
 ---
 
