@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: default
 title: Part 1 - Working With Juju
 
 ---
