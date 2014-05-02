@@ -14,14 +14,14 @@ Contents
 
 * [Introduction](part0)
 * [Part 1 - Working With Juju](part1)
-    * The Environment
-    * Providers
-    * The State Machine
-    * Bootstrapping
-    * Deploying
-    * Machines, Containers, and Constraints
-    * Relations
-    * Configuration
+    * [The Environment](part1/1-environment)
+    * [Providers](part1/2-providers)
+    * [The State Machine](part1/3-state)
+    * [Bootstrapping](part1/4-bootstrapping)
+    * [Deploying](part1/5-deploying)
+    * [Machines, Containers, and Constraints](part1/6-units)
+    * [Relations](part1/7-relations)
+    * [Configuration](part1/8-config)
 * [Part 2 - Working With Charms](part2)
     * Charm Basics
     * Configuration
