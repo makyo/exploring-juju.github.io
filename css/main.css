@@ -177,3 +177,10 @@ ul, ol {
   background-color: #333;
   font-family: "Ubuntu Mono", monospace;
 }
+
+.post blockquote {
+  padding-left: 1em;
+  border-left: 5px solid #eee;
+  font-style: italic;
+}
+
