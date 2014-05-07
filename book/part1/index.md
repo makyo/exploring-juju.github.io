@@ -18,7 +18,7 @@ Contents
 
 * [The Environment](1-environment)
 * [Providers](2-providers)
-* [The State Machine](3-state)
+* [The State Server](3-state)
 * [Bootstrapping](4-bootstrapping)
 * [Deploying](5-deploying)
 * [Machines, Containers, and Constraints](6-units)

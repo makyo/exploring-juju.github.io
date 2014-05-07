@@ -17,22 +17,23 @@ Contents
 * [Part 1 - Working With Juju](part1)
     * [The Environment](part1/1-environment)
     * [Providers](part1/2-providers)
-    * [The State Machine](part1/3-state)
+    * [The State Server](part1/3-state)
     * [Bootstrapping](part1/4-bootstrapping)
     * [Deploying](part1/5-deploying)
     * [Machines, Containers, and Constraints](part1/6-units)
     * [Relations](part1/7-relations)
     * [Configuration](part1/8-config)
 * [Part 2 - Working With Charms](part2)
-    * Charm Basics
-    * Configuration
-    * Hooks
-        * Install
-        * Start and Stop
-        * Config Changed
-        * Relations
-        * Hook Tools
-    * Interfaces
+    * [Charm Basics](part2/1-basics)
+    * [Configuration](part2/2-config)
+    * [Hooks](part2/3-hooks)
+        * [Install](part2/3-hooks/1-install)
+        * [Start and Stop](part2/3-hooks/2-start-stop)
+        * [Config Changed](part2/3-hooks/3-config-changed)
+        * [Relations](part2/3-hooks/4-relations)
+        * [Hook Tools](part2/3-hooks/5-tools)
+    * [Interfaces](part2/4-interfaces)
+    * [Bundles](part2/5-bundles)
 * [Part 3 - Juju Workflows](part3)
     * Dev
         * Starting Development

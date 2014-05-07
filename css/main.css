@@ -30,9 +30,9 @@ h1 {
 
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #dd4814; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #bb2602; }
 
 /*****************************************************************************/
 /*
@@ -52,6 +52,16 @@ a:visited { color: #a0a; }
   color: #aaa;
   font-family: "Ubuntu Mono", monospace;
   font-size: 80%;
+}
+
+.cta {
+    text-align: center;
+    font-size: 45px;
+}
+
+.cta a, .cta a:visited, .cta a:active, .cta a:hover {
+    text-decoration: none;
+    color: #dd4814;
 }
 
 /*****************************************************************************/
@@ -136,6 +146,19 @@ a:visited { color: #a0a; }
   border: 0;
 }
 
+/* navigation */
+.nav {
+    border-top: 4px solid #eee;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+.nav div {
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -186,16 +209,4 @@ ul, ol {
 
 .post img {
     max-width: 42em;
-}
-
-.nav {
-    border-top: 4px solid #eee;
-    margin-top: 1em;
-    padding-top: 1em;
-}
-
-.nav div {
-    text-align: center;
-    display: inline-block;
-    width: 32%;
 }
